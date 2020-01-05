@@ -79,7 +79,7 @@ shellescape==3.4.1
 singledispatch==3.4.0.3
 six==1.13.0
 tornado==5.1.1
-urllib3==1.22
+urllib3==1.24.2
 vboxapi==1.0
 virtualenv==16.7.8
 Werkzeug==0.16.0
